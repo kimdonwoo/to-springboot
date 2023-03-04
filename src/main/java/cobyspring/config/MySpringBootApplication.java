@@ -1,4 +1,4 @@
-package cobyspring.helloboot;
+package cobyspring.config;
 
 import cobyspring.config.EnableMyAutoConfiguration;
 import cobyspring.config.autoconfig.DispatcherServletConfig;

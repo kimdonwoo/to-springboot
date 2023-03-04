@@ -1,0 +1,6 @@
+cobyspring.config.autoconfig.DataSourceConfig
+cobyspring.config.autoconfig.PropertyPostProcessorConfig
+cobyspring.config.autoconfig.PropertyPlaceholderConfig
+cobyspring.config.autoconfig.TomcatWebServerConfig
+cobyspring.config.autoconfig.DispatcherServletConfig
+cobyspring.config.autoconfig.JettyWebServerConfig
