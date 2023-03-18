@@ -4,3 +4,4 @@ cobyspring.config.autoconfig.PropertyPlaceholderConfig
 cobyspring.config.autoconfig.TomcatWebServerConfig
 cobyspring.config.autoconfig.DispatcherServletConfig
 cobyspring.config.autoconfig.JettyWebServerConfig
+cobyspring.config.autoconfig.ServerProperties
